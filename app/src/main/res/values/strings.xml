@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Volley</string>
+
+
+    <string-array name="names">
+        <item>fawzy</item>
+        <item>sarah</item>
+        <item>mi5a</item>
+        <item>reda</item>
+        <item>haidy</item>
+    </string-array>
+
+</resources>
